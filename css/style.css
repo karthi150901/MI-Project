@@ -1,0 +1,27 @@
+.navbar_logo{
+
+    margin: 20px 600px;
+    width: 100px;
+    border:2px solid black;
+    font-size: small;
+    text-align: center;
+}
+.links{
+    margin:30px 200px;
+    float: right;
+
+    
+}
+.content{
+    text-align: center;
+}
+#p1{
+    border:2px solid black;
+    border-radius: 20px;
+    width: fit-content;
+    margin-left:600px;
+}
+#p2{
+    text-align: center;
+    
+}
